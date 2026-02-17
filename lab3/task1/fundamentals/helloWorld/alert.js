@@ -1,0 +1,1 @@
+albert("I'm JavaScript!")
